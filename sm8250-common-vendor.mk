@@ -608,7 +608,6 @@ PRODUCT_PACKAGES += \
     rmt_storage \
     shsusrd \
     ssgtzd \
-    ssr_setup \
     tftp_server \
     thermal-engine \
     time_daemon \
